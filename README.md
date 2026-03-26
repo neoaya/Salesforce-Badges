@@ -17,6 +17,6 @@ Hi there 👋 I'm Neo Namane.
 
 
 
-  # Trailhead: your-link
+  # Trailhead:
 
 https://www.salesforce.com/trailblazer/oqjzjtygpfsixlp3pv
